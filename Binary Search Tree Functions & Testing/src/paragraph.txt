@@ -1,0 +1,6 @@
+module to store the letters of the alphabet in a BST. You 
+must create three different trees to store the Letter data in three 
+different orders. Each tree must contain only 26 Letter objects. Note 
+that the class is set up so that every time a 
+comparison is made to a letter object, it updates a comparison count
+bananas for sale please for that letter.

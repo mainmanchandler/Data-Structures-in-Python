@@ -1,0 +1,5 @@
+Insert every A word is 
+
+defined letters. 
+(For simplicity, 
+in the Hash_Set.
